@@ -1,15 +1,13 @@
 # Twitter Clone
 
+![Linters](https://github.com/RNtaate/twitter_clone/workflows/Linters/badge.svg)
+
 ## Project Description
 
-This project involves building of a light weight version of Twitter following screen cast tutorials made by [Andy Leverenz](https://www.youtube.com/watch?time_continue=1&v=5gUysPm64a4&feature=emb_logo)
-
-The purpose of the project is to get familiar with authentication in ruby on rails and obtaining an experience with Devise in the process.
+This project involves the building of a light weight version of [Twitter](https://twitter.com/) demonstrating the concepts of Authentication and Authorization in ruby on rails and getting familiar with using the Devise gem in the process.
 
 A user is able to sign-up and sign-in, create, edit, and delete their tweet, view tweets made by all users.  A user **can not** edit or delete a tweet created by another user.
-
-The code to the above screen casts can be found on [github](https://github.com/justalever/twittter)
-
+An Unregistered user can only view tweets made by all registered users.
 ### Screenshot
 
 ![](screenshots/twitter_clone.png)
@@ -74,5 +72,5 @@ The code to the above screen casts can be found on [github](https://github.com/j
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-- This project was originally taken from [the Odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication), following the tutorial of "*__Project 1__*" made by [Andy Leverenz](https://github.com/justalever/twittter)
+- This project was originally taken from [the Odin project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication), following the screen cast tutorials of "*__Project 1__*" made by [Andy Leverenz](https://github.com/justalever/twittter)
 - This project was inspired by the [Microverse](https:www.microverse.org) program
